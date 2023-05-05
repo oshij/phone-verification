@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import PhoneVerificationPopup from './PhoneVerificationPopup';
 
 import './App.css';
