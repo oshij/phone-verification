@@ -10,15 +10,16 @@
     padding: 24px;
     text-align: center;
   }
+
   
   .popup h2 {
     margin-top: 0;
+    background-color:  lightgreen;
   }
   
   .popup p {
     margin-bottom: 24px;
   }
-  
   .otp-input-container {
     display: flex;
     justify-content: center;
