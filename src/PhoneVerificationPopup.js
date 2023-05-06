@@ -57,7 +57,7 @@ function PhoneVerificationPopup() {
 
   return (
     <div className="popup">
-      <h2>Phone Verification</h2>
+      <h2 id="oshij">Phone Verification</h2>
       <p>Please enter the 6 digit verification code sent to your phone</p>
       <div className="otp-input-container">
         {otp.map((digit, index) => (
