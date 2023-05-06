@@ -20,6 +20,10 @@
   .popup p {
     margin-bottom: 24px;
   }
+  .popup button:hover{
+    background-color: lightgreen;
+
+  }
   .otp-input-container {
     display: flex;
     justify-content: center;
