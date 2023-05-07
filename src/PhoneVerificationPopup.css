@@ -10,6 +10,9 @@
     padding: 24px;
     text-align: center;
   }
+  .popup:hover{
+    background-color: grey;
+  }
 
   
   .popup h2 {
